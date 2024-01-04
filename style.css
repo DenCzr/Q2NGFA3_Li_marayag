@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+*{
+
+}
+
+.QR{
+    box-shadow: 1vw;
+    background-color: rgb(255, 255, 255);
+    padding: 1vw;
+    border: 0.1vw;
+    border-radius: 1.3vw;
+    text-align: center;
+    height: 27.5vw;
+    width: 16vw;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.QR img{
+    border-radius: 2vw;
+    border: 0.1vw;
+    width: 15vw;
+}
+
+body{
+    height: 100vh;
+    background-color: rgb(186, 240, 222);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
